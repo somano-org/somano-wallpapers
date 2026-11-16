@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <!-- Somano Dynamic -->
+  <wallpaper deleted="false">
+    <name>Somano</name>
+    <filename>/usr/share/backgrounds/somano-wall-light.png</filename>
+    <filename-dark>/usr/share/backgrounds/somano-wall-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Yue Ma Dynamic -->
+  <wallpaper deleted="false">
+    <name>Yue Ma</name>
+    <filename>/usr/share/backgrounds/yue-ma-unsplash-light.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/yue-ma-unsplash-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Artyusufpatel Dynamic -->
+  <wallpaper deleted="false">
+    <name>Monolith</name>
+    <filename>/usr/share/backgrounds/pexels-artyusufpatel-light.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/pexels-artyusufpatel-dark.jpg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Blue Solid Dynamic -->
+  <wallpaper deleted="false">
+    <name>Somano Blue</name>
+    <filename>/usr/share/backgrounds/blue-solid-light.png</filename>
+    <filename-dark>/usr/share/backgrounds/blue-solid-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Dima Solomin -->
+  <wallpaper deleted="false">
+    <name>Dima Solomin</name>
+    <filename>/usr/share/backgrounds/dima-solomin-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Eugene Golovesov Frost -->
+  <wallpaper deleted="false">
+    <name>Eugene Golovesov</name>
+    <filename>/usr/share/backgrounds/eugene-golovesov-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Hector J Rivas -->
+  <wallpaper deleted="false">
+    <name>Hector J Rivas</name>
+    <filename>/usr/share/backgrounds/hector-j-rivas-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Matthew Stephenson -->
+  <wallpaper deleted="false">
+    <name>Matthew Stephenson</name>
+    <filename>/usr/share/backgrounds/matthew-stephenson-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Nigel Hoare -->
+  <wallpaper deleted="false">
+    <name>Nigel Hoare</name>
+    <filename>/usr/share/backgrounds/nigel-hoare-unsplash.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Eugene Golovesov -->
+  <wallpaper deleted="false">
+    <name>Glacial Cavern</name>
+    <filename>/usr/share/backgrounds/pexels-eugene-golovesov.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Kechno Studio -->
+  <wallpaper deleted="false">
+    <name>Kechno Studio</name>
+    <filename>/usr/share/backgrounds/pexels-kechno-studio.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <!-- Santhosh Kanthala -->
+  <wallpaper deleted="false">
+    <name>Santhosh Kanthala</name>
+    <filename>/usr/share/backgrounds/pexels-santhosh-kanthala.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
