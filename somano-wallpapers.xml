@@ -15,7 +15,7 @@
   <!-- Yue Ma Dynamic -->
   <wallpaper deleted="false">
     <name>Yue Ma</name>
-    <filename>/usr/share/backgrounds/yue-ma-unsplash-light.jpg</filename>
+    <filename>/usr/share/backgrounds/yue-ma-unsplash-light.png</filename>
     <filename-dark>/usr/share/backgrounds/yue-ma-unsplash-dark.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
