@@ -10,5 +10,5 @@
 ### Credits:
 
 - all files that have at the end: `*-unsplash*` are from unsplash.com
-- all files that have at the beginning `*pexels-*` are from pexels.com
+- all files that have at the beginning `pexels-*` are from pexels.com
 - the credit to the creators is in the name of the file.
